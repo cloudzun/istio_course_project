@@ -1,22 +1,22 @@
-# Istio Course Project
+# Istio课程开发项目
 
-Welcome to the Istio Course Project repository! This project aims to deliver a comprehensive learning experience tailored to Istio and service mesh technologies. It includes well-structured modules, practical lab guides, and theoretical documentation.
+欢迎来到Istio课程开发项目的仓库！本项目旨在为学习服务网格和Istio技术的开发者提供全面的学习资源，包括模块化教学材料、实践实验指南和理论文档。
 
-## Project Overview
-- **Repository Structure**
-  - `notes/`: Contains project background information, course outlines, teaching standards, and raw materials.
-  - `modules/`: Placeholder for structured course modules with detailed content.
-  - `slides/`: Resources for presentation slides (future phase).
-  - `resources/`: Additional supporting files like diagrams and media.
+## 项目概述
+- **仓库结构**
+  - `notes/`: 包含项目背景资料、课程大纲、教学规范及原始材料。
+  - `modules/`: 待填充结构化课程模块及详细内容。
+  - `slides/`: 用于展示的PPT资源（未来阶段）。
+  - `resources/`: 额外支持文件，如图表及多媒体内容。
 
-- **Purpose**: Provide practical, real-world learning and hands-on labs for developers looking to master Istio.
-- **Current Focus**: Development of the core textbook.
+- **目标**: 为开发者提供实用的实际操作实验和学习体验。
+- **当前重点**: 开发核心教材。
 
-## Collaboration Guide
-See `CONTRIBUTING.md` for contribution rules and guidelines.
+## 协作指南
+详见 `CONTRIBUTING.md` 提供的贡献规则与指南。
 
-## Progress Tracking
-Check `TASKS.md` for detailed project progress and milestones.
+## 进度追踪
+请查阅 `TASKS.md` 获取详细的开发进度与里程碑。
 
 ---
-Stay tuned for updates!
+敬请期待更新内容！

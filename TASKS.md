@@ -1,16 +1,16 @@
-# Project Progress and Milestones
+# 项目进度与里程碑
 
-This file tracks the progress of the Istio course development project. Below, you will find the status of all key tasks and modules.
+本文档用于记录Istio课程开发项目的进度。以下是所有关键任务与模块的状态。
 
-## Milestones
-1. **Course Framework Setup (In Progress)**
-   - [x] Directory Structure Created
-   - [x] Core Planning Documents Written (`course_development_specifications.md`, `class-note.md`, `background.md`)
-   - [ ] Initial Textbook Framework Under Draft
+## 里程碑
+1. **课程框架搭建（进行中）**
+   - [x] 创建目录结构
+   - [x] 编写核心规划文档（`course_development_specifications.md`，`class-note.md`，`background.md`）
+   - [ ] 初步完成教材框架草稿
 
-2. **Textbook Development (Upcoming)**
-   - [ ] Module 1 (K8s Basics & Lab 1)
-   - [ ] Module 2 (Istio Traffic Management & Labs 2-4)
+2. **教材开发（待完成）**
+   - [ ] 模块1（K8s基础知识与实验1）
+   - [ ] 模块2（Istio流量管理与实验2-4）
 
-3. **Lab Testing (Future Phase)**
-   - Ensure lab reproducibility and provide fail-safe guardrails.
+3. **实验测试（未来阶段）**
+   - 确保实验可复现性，并提供容错防护。

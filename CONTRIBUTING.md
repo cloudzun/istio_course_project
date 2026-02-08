@@ -1,16 +1,16 @@
-# Contributing Guide
+# 贡献指南
 
-Thank you for taking the time to contribute to the Istio Course Project! This guide provides information on how you can help and how we ask contributors to maintain consistency and quality.
+感谢您为Istio课程开发项目贡献力量！本指南为您提供协作的相关信息，帮助您保持交付物的一致性和高质量。
 
-## Contributing Best Practices
+## 最佳实践
 
-- **Code Standards**: Follow Markdown standards (e.g., proper use of headers, bullet points, and inline code).
-- **Branching**: Create a unique feature branch (e.g., `feature/<topic-name>`) for each module or task before merging.
-- **Commit Messages**: Use clear and descriptive commit messages (e.g., `Add: Lab guide for module 3` or `Fix: Lab 4 sidecar injection error`).
+- **代码标准**: 遵守Markdown规范（如正确使用标题、列表及内联代码）。
+- **分支管理**: 每个模块或任务的开发单独创建功能分支（如 `feature/<topic-name>`），再进行合并。
+- **提交信息**: 使用清晰且具描述性的提交说明（如 `新增: 第3模块实验指南` 或 `修复: Lab 4 Sidecar注入错误`）。
 
-## Key Files
-- **`TASKS.md`**: Always update the task status or milestones after completing a contribution.
-- **`REVIEW_GUIDE.md`**: Refer for internal review and quality assurance.
+## 重要文件
+- **`TASKS.md`**: 每完成一次贡献，请同步更新任务状态与里程碑。
+- **`REVIEW_GUIDE.md`**: 内部评审与质量保障参考文档。
 
 ---
-By working together, we create better materials for the developer community. Happy contributing!
+让我们共同努力，打造更优质的材料！

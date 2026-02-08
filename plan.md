@@ -1,34 +1,10 @@
-# 项目规划
+### Course Planning Plan and Chapter-specific Details
 
-## 项目目标
-本项目旨在开发一套完整的Istio课程体系，包括以下成果：
-1. **核心教材**: 系统化描述Istio的理论知识与技术实践。
-2. **实验手册**: 配套详细实验指导，帮助学员深入理解每个实验模块。
-3. **附录资源**: 提供速查表、配置文件和常见问题排查指南。
+#### Chapter 1: The Rise of Service Mesh and Istio Architecture (Foundation)
+**Objective:**
+Establish an overall understanding of Istio and appreciate the origin and core framework of service meshes.
 
-## 阶段划分
-
-### 第一阶段：规划与框架设计（当前阶段）
-- 制定文档标准（已完成）
-- 撰写背景资料及课程大纲（已完成）
-- 搭建基本目录与工作流（已完成）
-- 输出课程初步框架（进行中）
-
-### 第二阶段：课程教材编写
-- 分模块完成每章理论内容：
-  - 模块1：Kubernetes基础与Lab 1实验
-  - 模块2：Istio流量治理与Lab 2-4实验
-  - 模块3：...
-- 创建用于讲解的示例代码与配置文件。
-
-### 第三阶段：实验测试与优化
-- 验证所有实验的可执行性与学习效果。
-- 收集测试反馈，迭代优化内容。
-
-## 管理规范
-- 添加所有变更至Git版本控制，并定期同步仓库。
-- 记录每日任务进度与重要决策，归纳至 `NOTES.md`。
-- 任务完成后必须经过双重核对与团队评审。
-
----
-随着项目进展，该文档将及时更新。
+**Details:**
+1. Why service meshes exist and common challenges of microservices (rapid failures).
+2. Evolution and adaptation of Istio architecture (from manual to modern Istio 1.26).
+3. Lab work analyzing istioctl environment installs + K8S walkthrough. Verify successful setup before summary lessons. Estimate 2 hours.

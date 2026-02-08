@@ -1,10 +1,11 @@
-### Course Planning Plan and Chapter-specific Details
+---
+# 规划文档：Istio课程计划
 
-#### Chapter 1: The Rise of Service Mesh and Istio Architecture (Foundation)
-**Objective:**
-Establish an overall understanding of Istio and appreciate the origin and core framework of service meshes.
-
-**Details:**
-1. Why service meshes exist and common challenges of microservices (rapid failures).
-2. Evolution and adaptation of Istio architecture (from manual to modern Istio 1.26).
-3. Lab work analyzing istioctl environment installs + K8S walkthrough. Verify successful setup before summary lessons. Estimate 2 hours.
+## 第一章：服务网格和Istio概览
+- **目标**: 理解微服务和服务网格之间的关系以及挑战，促进初步理解平台基础架构。
+- **实验与练习**:
+  1. 用istioctl进行演示性原生安装。
+  2. 重点代码：Blog命令和特定示例的资源创建。
+ 
+## 第二章......
+--- EveryUser write explain passes--
